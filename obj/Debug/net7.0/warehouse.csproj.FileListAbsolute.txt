@@ -1,0 +1,15 @@
+/home/thinkpad/code/cs/warehouse/bin/Debug/net7.0/warehouse
+/home/thinkpad/code/cs/warehouse/bin/Debug/net7.0/warehouse.deps.json
+/home/thinkpad/code/cs/warehouse/bin/Debug/net7.0/warehouse.runtimeconfig.json
+/home/thinkpad/code/cs/warehouse/bin/Debug/net7.0/warehouse.dll
+/home/thinkpad/code/cs/warehouse/bin/Debug/net7.0/warehouse.pdb
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.csproj.AssemblyReference.cache
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.GeneratedMSBuildEditorConfig.editorconfig
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.AssemblyInfoInputs.cache
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.AssemblyInfo.cs
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.csproj.CoreCompileInputs.cache
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.dll
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/refint/warehouse.dll
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.pdb
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/warehouse.genruntimeconfig.cache
+/home/thinkpad/code/cs/warehouse/obj/Debug/net7.0/ref/warehouse.dll

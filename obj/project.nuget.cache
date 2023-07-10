@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaOfjWHCUpzVx4jZDsBjG4mHh8/ROPg83dRyXV7CTT3MKjX+jlLpXHAVV5xc/PBn3ZWlnAPAKSdZ6HymXPOwbg==",
+  "success": true,
+  "projectFilePath": "/home/thinkpad/code/cs/warehouse/warehouse.csproj",
+  "expectedPackageFiles": [
+    "/home/thinkpad/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
