@@ -30,7 +30,7 @@ class Program
 
         department2.DisplayItems();
 //działa co ma
-        Console.ReadLine();
+        //Console.ReadLine();
 
         int selectedIndex = 0;
         string[] options = { "Manage Items", "Manage Departments", "Raport", "Exit" };
